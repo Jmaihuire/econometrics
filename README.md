@@ -1,0 +1,2 @@
+# econometrics
+econometrics study notes
